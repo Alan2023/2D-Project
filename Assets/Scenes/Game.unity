@@ -1294,7 +1294,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemy: {fileID: 8536242024550608059, guid: fd62dc281ac0fa349940f9460ea1aa66, type: 3}
   spawnArea: {x: 10, y: 8}
-  spawnTimer: 2
+  spawnTimer: 1
   player: {fileID: 605603902}
 --- !u!4 &296841786
 Transform:
@@ -2742,7 +2742,7 @@ MonoBehaviour:
   movementVector: {x: 0, y: 0, z: 0}
   lastHorizontalVector: 0
   lastVerticalVector: 0
-  speed: 10
+  speed: 3
 --- !u!4 &605603905
 Transform:
   m_ObjectHideFlags: 0
